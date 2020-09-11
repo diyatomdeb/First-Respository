@@ -1,0 +1,6 @@
+-rw-r--r-- 1 edureka edureka 28 Sep 10 20:32 2.txt
+-rw-r--r-- 1 edureka edureka 60 Sep 11 00:41 1.txt
+-rw-r--r-- 1 edureka edureka  0 Sep 11 15:55 test.txt
+
+
+This is Diyatom Deb
